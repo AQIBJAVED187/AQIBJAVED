@@ -13,8 +13,8 @@ class calculator{
 		
 		void display()
 		{
-			cout<<"the first data member"<<n1<<endl;
-			cout<<"the second data member"<<grade<<endl;
+			cout<<"the second data member"<<n1<<endl;
+			cout<<"the third data member"<<grade<<endl;
 		}
 };
 
